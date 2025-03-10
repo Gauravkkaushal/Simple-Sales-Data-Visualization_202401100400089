@@ -49,5 +49,5 @@ License
 This project is licensed under the MIT License.
 
 Author
-Gaurav Kaushal - GitHub: 
+Gaurav Kaushal - GitHub: https://github.com/Gauravkkaushal/Simple-Sales-Data-Visualization_202401100400089
 
